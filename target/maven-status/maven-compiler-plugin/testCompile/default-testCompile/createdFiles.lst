@@ -1,0 +1,4 @@
+swapitest\people\delete\DeleteTest.class
+swapitest\people\get\GetTest.class
+swapitest\people\post\PostTest.class
+swapitest\base\BaseTest.class
